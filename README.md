@@ -1,6 +1,6 @@
 # aula-Banco-de-dados-Individual
 <h1 align="center">
-    ![$$ nome da imagem $$]($$ endereço da imagem $$)
+    <img src="">
 </h1>
 
 ## :detective:Índice
@@ -12,14 +12,20 @@
     <li>Autores do Projeto</li>
 </ul>
 
-* Sobre o Projeto
-* Tecnologias utilizadas
-* Diagrama
-* Autores do Projeto
-
 ## :desktop_computer:Sobre o Projeto
 
-$$ Sobre o ecommerce $$
+Uma empresa com vários departamentos com um ou mais funcionários e cada funcionário pode participar de 1 ou mais projetos
+
+
+Regras:
+
+- Cada funcionário deve ter apenas um departamento.
+- Um departamento pode ter vários funcionários.
+- A especialização de um funcionário tem que ser a mesma ou próxima da area especializada do departamento.
+- Um projeto poder ter 1 ou mais funcionários.
+- Um funcionário pode trabalhar em 1 ou mais projetos.
+
+
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 
@@ -33,13 +39,12 @@ $$ Sobre o ecommerce $$
 <div align="center">
 
   ## Modelo Conceitual
-    <img src="$$ caminho do modelo conceitual como está no repositório, com extensão">
+   <img src="ModeloConceitual.png">
   
   ## Modelo Lógico
-    ![Modelo Lógico]($$ endereço da imagem $$)
+   <img src="ModeloLogico.png">
 
 </div>
 ## Autores
-
-- :boy:[$$ nome do membro $$]($$ link do github do membro $$)
-- :girl:[$$ nome do membro $$]($$ link do github do membro $$)
+- :boy:
+Victor Hugo Martins França - https://github.com/VictorHmfr
